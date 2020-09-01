@@ -5,5 +5,5 @@ Create a set of cucumber scenarios for fun.
 ```
 bundle install
 bundle exec ruby cli/lorem_cuke generate
-bundle exec cucumver --tags @lorem
+bundle exec cucumber --tags @lorem
 ```
